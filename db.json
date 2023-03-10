@@ -1,0 +1,29 @@
+{
+  "usersignup": [
+    {
+      "fullname": "deven sureja ",
+      "email": "",
+      "password": "",
+      "age": "",
+      "mobile": "",
+      "id": 1
+    },
+    {
+      "fullname": "deven sure",
+      "email": "devensurejads@gmail.com",
+      "password": "123455",
+      "age": "43",
+      "mobile": 7890987654,
+      "id": 2
+    },
+    {
+      "fullname": "deven sure",
+      "email": "devensurejads@gmail.com",
+      "password": "123455",
+      "age": "43",
+      "mobile": 7890987654,
+      "id": 3
+    }
+  ],
+  "userlogin": []
+}
